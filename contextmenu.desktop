@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=contextmenu
+Exec=qmlscene $@ Main.qml
+Icon=contextmenu.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

@@ -1,0 +1,17 @@
+{
+    "name": "contextmenu.liu-xiao-guo",
+    "description": "description of contextmenu",
+    "architecture": "all",
+    "title": "contextmenu",
+    "hooks": {
+        "contextmenu": {
+            "apparmor": "contextmenu.apparmor",
+            "desktop":  "contextmenu.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
